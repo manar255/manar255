@@ -31,9 +31,8 @@ Here are some of my featured projects:
 
 ## 📫 Contact Me
 
-- Email: [your-email@example.com] *(لو تحبي تضيفيها)*
-- LinkedIn: [linkedin.com/in/your-profile] *(لو عندك)*
-- Portfolio: *(لو عندك موقع شخصي)*
+- Email: manarkhaled2510@gmail.com
+- LinkedIn:https://www.linkedin.com/in/manar-khaled-6a1567203/
 
 ---
 
