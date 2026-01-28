@@ -9,7 +9,7 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, C++, Python, Dart  
+- **Languages:** JavaScript, TypeScript, C++, Python  
 - **Backend:** Node.js, Express.js, NestJS, MySQL, MongoDB, REST APIs  
 - **Frontend:** Angular, React (basic), HTML, CSS, Bootstrap  
 - **Tools & Others:** Git, GitHub, Postman, Swagger, Socket.IO, JWT, Cloudinary  
